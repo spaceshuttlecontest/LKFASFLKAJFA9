@@ -1,0 +1,35 @@
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+time {
+    font-size: 22px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.hint {
+    text-align: center;
+}
+
+
+img {
+    display: block;
+    opacity: 0;
+    float: right;
+}
+
+img:hover {
+    opacity: 100%;
+}
+
+.opacity {
+    opacity: 20%;
+}
